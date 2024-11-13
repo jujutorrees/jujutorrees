@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jujutorrees
-- 👀 Tenho interesse em sair para festa, 
+- 👀 Tenho interesse em aprender coisas novas.
 - 🌱 Estou aprendendo a mexer mais no computador e muito mais.
 - - 📫 para entrar em contato comigo só por email.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns:ela/dela.
+- ⚡ Fun fact: mimha cor preferida é roxo.
 
 <!---
 jujutorrees/jujutorrees is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
